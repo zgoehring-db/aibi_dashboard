@@ -20,3 +20,4 @@ resources:
       # under the bundle deployment root.
       #
       # parent_path: ${workspace.resource_path}
+
